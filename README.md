@@ -1,10 +1,9 @@
 # SUPER_SHAPE
-Creates 3D Supershape objects using the Superformula. Inspired by a video done by The Coding Train.
+Creates 3D Supershape objects using the Superformula. Inspired by Paul Bourke.
 
 Using Processing3, a Java based visual editor.
 
 Future Plans****
 
--Create a easy to use GUI allowing user to change var values.
--modify Superformula for Topological shapes.
+-Add Klein Bottle, 4D- Objects, and Spherical Harmonics.
 -Attempt version using Java Script.
