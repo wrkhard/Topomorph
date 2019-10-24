@@ -1,5 +1,5 @@
 Topomorph is a Processing for Java sketch that creates 3D Supershapes using the Superforula created by Johan Gielis,
-to provide an interactive intution of natural forms. GUI provides two sets of hidealbe sliders that control inputs to the variables
+to provide an interactive intution of natural forms. GUI provides two sets of hideable sliders that control inputs to the variables
 of the Superformula, and controls for 'Point', 'Mesh', and 'Solid' views. Projection to either a spherical or toroidal mapping
 can also be selected. Inspired by the work of Paul Bourke.
 
